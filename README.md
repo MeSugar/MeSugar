@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eugene
+- 👋 Hi, I’m Eugene a School 21 (Ecole 42) student
 - 👀 I’m interested in Data Science and Machine Learning
 
 - Stepik profile: https://stepik.org/users/399167191
