@@ -1,1 +1,3 @@
 - 👋 Hi, I’m Eugene. Currently I'm a School 21 (Ecole 42) student
+- I'm a former digital-marketing specialist with data-driven aproach moving to Data Science
+- Looking forward for DS/ML internships
