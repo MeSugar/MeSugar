@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eugene!
 
 I am a professional data-driven digital-marketing specialist with over 5 years of work experience.
-I am very inspired by the potential of machine learning and the opportunities it can bring to businesses, which motivates to constantly develop in this area.
+I am very inspired by the potential of machine learning and the opportunities it can bring to businesses, which motivates me to constantly develop in this area.
 
 
 ### Connect with me
